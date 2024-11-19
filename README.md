@@ -24,7 +24,7 @@ DeepC is the full and main program, featuring all the things from DeepCimple (i.
 
 # Credits:
 
-This framework is not made without the help of awesome people who created their own libraries that allow DeepC to work as well as it does. Below are the libraries that DeepC and DeepCimple use, as well as their GitHub repositories (Please check them out, they're really awesome people!):
+This framework is not made without the help of awesome people who created their own libraries that allow DeepC to work as well as it does. Below are the libraries that DeepC and DeepCimple use, as well as their GitHub repositories (Please check them out, they're really awesome people for making these libraries!):
 
 stb_image (Image processing that helps with building models for image processing easier in C): 
 https://github.com/nothings/stb
